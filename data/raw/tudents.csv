@@ -1,0 +1,9 @@
+student_id,name,age,major,gpa
+1,Ahmed,22,IT,3.7
+2,Sara,21,CS,3.2
+3,Ali,abc,IT,2.8
+4,Mona,19,CS,5.0
+5,Omar,25,AI,
+1,Ahmed,22,IT,3.7
+6,Khaled,90,AI,2.3
+7,,20,CS,3.0
